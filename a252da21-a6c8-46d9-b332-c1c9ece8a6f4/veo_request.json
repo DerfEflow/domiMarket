@@ -1,0 +1,27 @@
+{
+  "script": "Need a roof? We\u2019ve got you covered! Quality roofing in North Carolina. Your home deserves the best. Don\u2019t wait, call us today! Get a free estimate now!",
+  "length_sec": 15,
+  "style": "witty documentary realism",
+  "voice": "confident American male",
+  "music": "cinematic, modern",
+  "sfx": [
+    "subtle whooshes",
+    "light ambience"
+  ],
+  "visuals": [
+    "Happy family under a roof",
+    "Roofing team at work",
+    "Before and after shots",
+    "Sunshine over a new roof",
+    "Phone icon with 'Call Now!'",
+    "End card with logo and CTA: Call Now"
+  ],
+  "brand_assets": {
+    "logo_url": "",
+    "color_hint": "steel gray"
+  },
+  "output": {
+    "format": "mp4",
+    "aspect": "9:16"
+  }
+}

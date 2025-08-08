@@ -1,0 +1,22 @@
+{
+  "script": "",
+  "length_sec": 15,
+  "style": "witty documentary realism",
+  "voice": "confident American male",
+  "music": "cinematic, modern",
+  "sfx": [
+    "subtle whooshes",
+    "light ambience"
+  ],
+  "visuals": [
+    "End card with logo and CTA: Call Now"
+  ],
+  "brand_assets": {
+    "logo_url": "https://trulineroofing.com/wp-content/uploads/2025/07/Asset-1.webp",
+    "color_hint": "steel gray"
+  },
+  "output": {
+    "format": "mp4",
+    "aspect": "9:16"
+  }
+}

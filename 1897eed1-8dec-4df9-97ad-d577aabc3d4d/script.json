@@ -1,0 +1,38 @@
+{
+  "voiceover_lines": [
+    "Transform your home with a new roof.",
+    "Expert roofing services in North Carolina.",
+    "Quality materials for lasting protection.",
+    "Get a free estimate today.",
+    "Call now for your roofing needs."
+  ],
+  "on_screen_text": [
+    {
+      "t": 0,
+      "text": "Expert Roofing Services"
+    },
+    {
+      "t": 3,
+      "text": "Quality Materials"
+    },
+    {
+      "t": 6,
+      "text": "Free Estimates"
+    },
+    {
+      "t": 9,
+      "text": "Call Now!"
+    },
+    {
+      "t": 12,
+      "text": "North Carolina"
+    }
+  ],
+  "visuals": [
+    "Beautiful home with new roof",
+    "Skilled workers on-site",
+    "High-quality roofing materials",
+    "Before and after shots",
+    "Customer satisfaction guaranteed"
+  ]
+}

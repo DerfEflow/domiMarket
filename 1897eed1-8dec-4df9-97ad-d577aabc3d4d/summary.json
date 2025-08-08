@@ -1,0 +1,19 @@
+{
+  "product": "Roofing Services",
+  "audience": "Homeowners and property managers",
+  "value_props": [
+    "Expert installation and repair of roofing systems",
+    "High-quality materials for durability and longevity",
+    "Comprehensive warranties for peace of mind",
+    "Timely project completion with minimal disruption",
+    "Free estimates and consultations"
+  ],
+  "proof_points": [
+    "Licensed and insured professionals",
+    "Years of experience in the roofing industry",
+    "Positive customer testimonials and case studies",
+    "Use of advanced technology and techniques",
+    "Commitment to safety and compliance with regulations"
+  ],
+  "tone_guess": "expert"
+}

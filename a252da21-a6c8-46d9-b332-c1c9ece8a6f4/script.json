@@ -1,0 +1,38 @@
+{
+  "voiceover_lines": [
+    "Need a roof? We\u2019ve got you covered!",
+    "Quality roofing in North Carolina.",
+    "Your home deserves the best.",
+    "Don\u2019t wait, call us today!",
+    "Get a free estimate now!"
+  ],
+  "on_screen_text": [
+    {
+      "t": 0,
+      "text": "Top Roofing Services"
+    },
+    {
+      "t": 3,
+      "text": "North Carolina"
+    },
+    {
+      "t": 6,
+      "text": "Quality Guaranteed"
+    },
+    {
+      "t": 9,
+      "text": "Call Now!"
+    },
+    {
+      "t": 12,
+      "text": "Free Estimates!"
+    }
+  ],
+  "visuals": [
+    "Happy family under a roof",
+    "Roofing team at work",
+    "Before and after shots",
+    "Sunshine over a new roof",
+    "Phone icon with 'Call Now!'"
+  ]
+}

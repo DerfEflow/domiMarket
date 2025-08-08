@@ -1,0 +1,38 @@
+{
+  "voiceover_lines": [
+    "Need a new roof? We've got you covered!",
+    "Truline Roofing: Your local experts.",
+    "Quality service, unbeatable prices!",
+    "Don't wait, protect your home today.",
+    "Call now for a free estimate!"
+  ],
+  "on_screen_text": [
+    {
+      "t": 0,
+      "text": "Need a new roof?"
+    },
+    {
+      "t": 3,
+      "text": "Truline Roofing"
+    },
+    {
+      "t": 6,
+      "text": "Local Experts"
+    },
+    {
+      "t": 9,
+      "text": "Unbeatable Prices!"
+    },
+    {
+      "t": 12,
+      "text": "Call Now!"
+    }
+  ],
+  "visuals": [
+    "Roof installation",
+    "Happy homeowners",
+    "Tools and materials",
+    "Before and after shots",
+    "Truline logo"
+  ]
+}

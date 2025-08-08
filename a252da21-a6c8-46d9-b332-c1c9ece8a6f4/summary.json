@@ -1,0 +1,19 @@
+{
+  "product": "Roofing Services",
+  "audience": "Homeowners and property managers",
+  "value_props": [
+    "High-quality materials for durability",
+    "Expert installation with a focus on safety",
+    "Comprehensive warranties for peace of mind",
+    "Timely project completion to minimize disruption",
+    "Affordable pricing with transparent quotes"
+  ],
+  "proof_points": [
+    "Over 20 years of experience in the roofing industry",
+    "Licensed and insured professionals",
+    "Positive customer testimonials and case studies",
+    "Use of advanced technology for inspections and installations",
+    "Sustainable practices with eco-friendly materials"
+  ],
+  "tone_guess": "witty"
+}

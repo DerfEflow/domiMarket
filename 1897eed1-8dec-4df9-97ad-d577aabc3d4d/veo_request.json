@@ -1,0 +1,27 @@
+{
+  "script": "Transform your home with a new roof. Expert roofing services in North Carolina. Quality materials for lasting protection. Get a free estimate today. Call now for your roofing needs.",
+  "length_sec": 15,
+  "style": "expert documentary realism",
+  "voice": "confident American male",
+  "music": "cinematic, modern",
+  "sfx": [
+    "subtle whooshes",
+    "light ambience"
+  ],
+  "visuals": [
+    "Beautiful home with new roof",
+    "Skilled workers on-site",
+    "High-quality roofing materials",
+    "Before and after shots",
+    "Customer satisfaction guaranteed",
+    "End card with logo and CTA: Call Now"
+  ],
+  "brand_assets": {
+    "logo_url": "https://trulineroofing.com/wp-content/uploads/2025/07/Asset-1.webp",
+    "color_hint": "steel gray"
+  },
+  "output": {
+    "format": "mp4",
+    "aspect": "9:16"
+  }
+}
